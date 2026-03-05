@@ -11,7 +11,7 @@ Follow me for updates on my latest projects and contributions to the tech world.
 
 - 💬 Ask me about **ML, AI, Data Analytics, DL**
 
-- 📫 How to reach me **anant.sabharwal2001@gmail.com**
+- 📫 How to reach me **anantsabharwalwork@gmail.com**
 
 - ⚡ Fun fact **Spontaneous foodie who goes to the gym!**
 
