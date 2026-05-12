@@ -1,23 +1,67 @@
 
-<h1 align="center">Hi 👋, I'm Anant Sabharwal</h1>
-<h3 align="center">I'm a Data Science Engineering graduate with a passion for football, development, and entrepreneurship. I have experience across multiple programming languages and frameworks, with strong interests in Data Science, Machine Learning, and Artificial Intelligence.
+<div align="center">
+  <h1>Hi, I'm Anant Sabharwal 👋</h1>
+  <p>
+    <strong>Data Science Engineering Graduate | AI & ML Enthusiast | Developer</strong>
+  </p>
+</div>
 
-Curious and driven, I enjoy working on data-driven projects that blend technical innovation with real-world impact. I'm also a strong communicator and thrive in collaborative, idea-sharing environments.
+<hr>
 
-Follow me for updates on my latest projects and contributions to the tech world.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<h2>🚀 About Me</h2>
 
-- 🌱 I’m currently learning **Software Development**
+<p>
+  I am a Data Science Engineering graduate passionate about building intelligent,
+  data-driven solutions at the intersection of AI, Machine Learning, and Software Development.
+  I have experience working with multiple programming languages and frameworks, with a strong
+  focus on creating impactful products through analytics, automation, and scalable systems.
+</p>
 
-- 💬 Ask me about **ML, AI, Data Analytics, DL**
+<p>
+  I enjoy transforming complex problems into practical solutions and collaborating with teams
+  that value innovation, learning, and execution. Beyond tech, I’m deeply interested in
+  entrepreneurship, football, and continuous self-improvement.
+</p>
 
-- 📫 How to reach me **anantsabharwalwork@gmail.com**
+<hr>
 
-- ⚡ Fun fact **Spontaneous foodie who goes to the gym!**
+<h2>🌱 Current Focus</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anant-sabharwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anant-sabharwal" height="30" width="40" /></a>
+<ul>
+  <li>Learning and building in Software Development</li>
+  <li>Exploring Machine Learning, Deep Learning, and AI applications</li>
+  <li>Working on Data Analytics and data-driven products</li>
+</ul>
+
+<hr>
+
+<h2>💬 Ask Me About</h2>
+
+<ul>
+  <li>Machine Learning & Artificial Intelligence</li>
+  <li>Data Analytics & Visualization</li>
+  <li>Deep Learning</li>
+  <li>Software Development & Problem Solving</li>
+</ul>
+
+<hr>
+
+<h2>📫 Connect With Me</h2>
+
+<p>
+  Email: 
+  <a href="mailto:anantsabharwalwork@gmail.com">
+    anantsabharwalwork@gmail.com
+  </a>
+</p>
+
+<hr>
+
+<h2>⚡ Fun Fact</h2>
+
+<p>
+  Gym enthusiast and spontaneous foodie who enjoys discovering new places and ideas.
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
